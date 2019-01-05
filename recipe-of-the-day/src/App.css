@@ -1,0 +1,33 @@
+body{
+background-image: url(http://s1.1zoom.me/big0/82/Fruit_Water_Spray_Black_background_521941_1280x653.jpg); 
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+h1{
+    text-align: center;
+    font-size: 5em;
+    font-weight: 300;
+    color:white;
+  }
+  
+  p{
+    text-align: center;
+    font-size: 3em;
+    font-weight: 100;
+    color:gold;
+  }
+
+  .ingredient{
+    text-align: center;
+    font-size: 3em;
+    font-weight: 10;
+    color:gold;
+  }
+
+  li{
+    text-align: center;
+    color: goldenrod;
+  }
